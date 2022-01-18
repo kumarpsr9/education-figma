@@ -31,7 +31,7 @@ a:hover {
  background-size: cover;
 }
 .grncrle {
- background: #45B871;
+ background: #4C68FC;
  width: 74px;
  height: 74px;
  line-height: 74px;
@@ -140,7 +140,7 @@ h6 {
 .greenbt {padding: 18px 25px;}
 .greenbt-small {padding: 6px 12px;}
 .greenbt, .greenbt-small {
- background-color: #45B871;
+ background-color: #4C68FC;
  color: #fff;
  font-size: 20px;
  border-radius: 4px;
@@ -156,7 +156,7 @@ h6 {
  filter: drop-shadow(4.59071px 0px 22.9536px rgba(0, 0, 0, 0.15));
  width: 50px;
 height: 50px;
- border: 1px solid #45B871;
+ border: 1px solid #4C68FC;
 box-sizing: border-box;
  border-radius: 50%;
  padding: 1px;
@@ -184,11 +184,11 @@ box-sizing: border-box;
  white-space: nowrap;
 }
 .greentxt {
- color: #44b871!important;
+ color: #4C68FC!important;
 }
 /*sections*/
 .top {
- background-color: #E4F5EB;
+ background-color: #F7C851;
  padding-top: 5px;
  padding-bottom: 3em;
 }
@@ -204,14 +204,14 @@ box-sizing: border-box;
 }
 .popular {
  padding: 3em 0;
- background: #E4F5EB;
+ background: #F7C851;
  margin: 3em 0;
 }
 .testimonials  {
  padding: 3em 0;
 }
 .signupblk {
- background-image: url("../images/maskgroup.svg");
+  background: #F7C851;
  background-repeat: no-repeat;
  padding:5em 0;
  margin-bottom: 3em;
